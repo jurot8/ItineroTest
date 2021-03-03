@@ -3,3 +3,10 @@
 ################################################################################
 
 /ItineroTest/.vs/ItineroTest/v16
+/ItineroTest/bin/Debug
+/ItineroTest/obj/Debug
+/ItineroTest/packages/Itinero.1.5.0/lib
+/ItineroTest/packages
+/.vs/slnx.sqlite
+/.vs/ItineroTest/v16/.suo
+/.vs/VSWorkspaceState.json
